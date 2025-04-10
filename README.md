@@ -263,7 +263,7 @@ A creative NFT marketplace with a tattoo-art spin — browse, mint, and collect.
 ---
 
 ### 🌩️ Nimbus DApp (XELIS)  
-[🔗 nimbus-dapp-xelis.vercel.app/dashboard](https://nimbus-dapp-xelis.vercel.app/dashboard)  
+[🔗 dapp-nimbusnetwork.vercel.app/](https://dapp-nimbusnetwork.vercel.app/)  
 A decentralized dashboard interface for XELIS blockchain tools and ecosystem utilities.
 
 ---

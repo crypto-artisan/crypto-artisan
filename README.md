@@ -242,12 +242,12 @@
 </div> 
 
 <h2 align="center">Projects</h2>
-https://joba-rho.vercel.app/
-https://eggcellent-public.vercel.app/
-https://tatoo-nft.vercel.app/
-https://nimbus-dapp-xelis.vercel.app/dashboard
-https://qc-staking.vercel.app/
-https://www.quantumcloak.network/
-https://crypto-app-flax-one.vercel.app/
-https://zerolend-eight.vercel.app/
+- [Joba](https://joba-rho.vercel.app/)
+- [Eggcellent](https://eggcellent-public.vercel.app/)
+- [Tatoo NFT](https://tatoo-nft.vercel.app/)
+- [Nimbus DApp (XELIS)](https://nimbus-dapp-xelis.vercel.app/dashboard)
+- [QC Staking](https://qc-staking.vercel.app/)
+- [QuantumCloak](https://www.quantumcloak.network/)
+- [Crypto App](https://crypto-app-flax-one.vercel.app/)
+- [Zerolend](https://zerolend-eight.vercel.app/)
 

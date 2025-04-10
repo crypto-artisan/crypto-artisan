@@ -242,12 +242,55 @@
 </div> 
 
 <h2 align="center">Projects</h2>
-- [Joba](https://joba-rho.vercel.app/)
-- [Eggcellent](https://eggcellent-public.vercel.app/)
-- [Tatoo NFT](https://tatoo-nft.vercel.app/)
-- [Nimbus DApp (XELIS)](https://nimbus-dapp-xelis.vercel.app/dashboard)
-- [QC Staking](https://qc-staking.vercel.app/)
-- [QuantumCloak](https://www.quantumcloak.network/)
-- [Crypto App](https://crypto-app-flax-one.vercel.app/)
-- [Zerolend](https://zerolend-eight.vercel.app/)
+A selection of projects I've worked on — spanning Web3, decentralized apps, and innovative front-end experiences.
+
+### 🧠 Joba  
+[🔗 joba-rho.vercel.app](https://joba-rho.vercel.app/)  
+A sleek platform for managing and discovering job opportunities in a modern, user-friendly interface.
+
+---
+
+### 🥚 Eggcellent  
+[🔗 eggcellent-public.vercel.app](https://eggcellent-public.vercel.app/)  
+A fun and interactive egg-themed app — think productivity meets personality.
+
+---
+
+### 🎨 Tatoo NFT  
+[🔗 tatoo-nft.vercel.app](https://tatoo-nft.vercel.app/)  
+A creative NFT marketplace with a tattoo-art spin — browse, mint, and collect.
+
+---
+
+### 🌩️ Nimbus DApp (XELIS)  
+[🔗 nimbus-dapp-xelis.vercel.app/dashboard](https://nimbus-dapp-xelis.vercel.app/dashboard)  
+A decentralized dashboard interface for XELIS blockchain tools and ecosystem utilities.
+
+---
+
+### 💸 QC Staking  
+[🔗 qc-staking.vercel.app](https://qc-staking.vercel.app/)  
+Staking made simple — a clean interface for staking and managing crypto assets.
+
+---
+
+### 🛡️ QuantumCloak  
+[🔗 quantumcloak.network](https://www.quantumcloak.network/)  
+Privacy-focused tools for blockchain users — shielding your data and transactions.
+
+---
+
+### 📊 Crypto App  
+[🔗 crypto-app-flax-one.vercel.app](https://crypto-app-flax-one.vercel.app/)  
+A responsive dashboard app for monitoring crypto prices, trends, and analytics.
+
+---
+
+### 🧾 Zerolend  
+[🔗 zerolend-eight.vercel.app](https://zerolend-eight.vercel.app/)  
+A decentralized lending platform UI — built for seamless DeFi interactions.
+
+---
+
+> Want more details or code links? Let me know and I’ll expand this section.
 

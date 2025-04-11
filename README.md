@@ -241,7 +241,7 @@
   <img src="https://komarev.com/ghpvc/?username=crypto-artisan&&style=flat-square" align="center" />
 </div> 
 
-<h2 align="center">Projects</h2>
+<h2 align="center">Featured Projects (Open Source)</h2>
 A selection of projects I've worked on — spanning Web3, decentralized apps, and innovative front-end experiences.
 
 ### 🧠 Joba  

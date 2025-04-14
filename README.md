@@ -7,8 +7,12 @@
 <br clear="both" />
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=crypto-artisan&show_icons=true&theme=dark&count_private=true&hide=issues&raw_cache=no-store"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=crypto-artisan&raw_cache=no-store&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo"  width="49%" alt="@crypto-artisan's github-readme-streak-stats"/>
+  <a href="https://github.com/crypto-artisan?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=crypto-artisan&theme=gotham&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&count_private=true&raw_cache=no-store" width="49%" alt="@crypto-artisan's github-readme-stats-one-bice"/>
+  </a>
+  <a href="https://github.com/crypto-artisan?tab=stars">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=crypto-artisan&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&raw_cache=no-store"  width="49%" alt="@crypto-artisan's github-readme-streak-stats"/>
+  </a>
 </p>
 
 ###
